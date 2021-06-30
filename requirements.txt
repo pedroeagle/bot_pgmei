@@ -1,0 +1,5 @@
+Flask
+gunicorn
+selenium==3.141.0
+chromedriver-binary==90.0.4430.24.0
+python-dotenv
